@@ -1,0 +1,35 @@
+
+On the Popularity of Internet based Instruction
+
+With the Rapid development of Information Technology, there is a boom in Internet based Instruction. Most of universities offer on-line courses which have gained much popularity among students nowadays. This new way of teaching brings many advantages. Firstly, it gives much convenient and freedom to students. Students can study at any time and any place as they like, even in pajamas. Secondly, it is very economical because students are not required to come to the campus and schools can cut expenditure on electricity and water supply, doorkeepers payment, park lots maintenance and so on. But on-line learn has drawbacks as well. One of them is that there is no effective way to ensure that students make the required efforts. As for me, I prefer the traditional way of teaching. The face-to-face communication with teachers can give me more encouragement to learn. As a matter of fact, the direct guidance and class interaction benefit me a lot.
+
+// -----------------------------------
+Popularity: [pɒpjʊ'lærətɪ]
+instruction: [ɪn'strʌkʃ(ə)n]
+development: [dɪ'veləpm(ə)nt]
+Technology: [tek'nɒlədʒɪ]
+boom: [buːm]
+courses: ['kɔːsɪz]
+gained: [geind]
+among: [ə'mʌŋ]
+advantage: [əd'vɑːntɪdʒ]
+convenient: [kən'viːnɪənt]
+pajamas: [pə'dʒɑːməz]
+economical: [iːkə'nɒmɪk(ə)l; ek-]
+required: [rɪ'kwaɪəd]
+campus: ['kæmpəs]
+expenditure: [ɪk'spendɪtʃə; ek-]
+electricity: [,ɪlek'trɪsɪtɪ; ,el-; ,iːl-]
+supply: [sə'plaɪ]
+maintenance: [ˈmeɪntənəns]
+drawbacks: ['drɔːbæk]
+effective: [ɪ'fektɪv]
+ensure: [ɪn'ʃɔː; -'ʃʊə; en-]
+effort: ['efət]
+prefer: [prɪ'fɜː]
+traditional: [trə'dɪʃ(ə)n(ə)l]
+encouragement: [ɪn'kʌrɪdʒm(ə)nt]
+direct: [dɪˈrekt ; daɪ-]
+guidance: ['gaɪd(ə)ns]
+interaction: [ɪntər'ækʃ(ə)n]
+benefit: ['benɪfɪt]
